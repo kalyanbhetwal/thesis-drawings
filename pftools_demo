@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T22:59:26.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" version="19.0.0" etag="f7qOZagKmF1sJQK4rQSR" type="github"><diagram id="v88jJ32kpTw9rXQNRo56">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-06T03:45:20.882Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="1Q2dBzrfHlDSnukL-yNr" version="19.0.0" type="github">
+  <diagram id="v88jJ32kpTw9rXQNRo56" name="Page-1">
+    <mxGraphModel dx="1395" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dR5hQpOm_vv-klzQngD_-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/NHDPlusHRStatus_Web_20220308.jpg;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="333.5" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="dR5hQpOm_vv-klzQngD_-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="250" as="sourcePoint" />
+            <mxPoint x="590" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dR5hQpOm_vv-klzQngD_-10" value="Subsetting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dR5hQpOm_vv-klzQngD_-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d25vtythmttl3o.cloudfront.net/uploads/sites/221/2012/10/AboutDCEW.jpg;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="159.58" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dR5hQpOm_vv-klzQngD_-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=grid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="270" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dR5hQpOm_vv-klzQngD_-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.guillaumedueymes.com/img/netcdf/xarray.png;" vertex="1" parent="1">
+          <mxGeometry x="180" y="480" width="520" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="dR5hQpOm_vv-klzQngD_-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="360" as="sourcePoint" />
+            <mxPoint x="470" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dR5hQpOm_vv-klzQngD_-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="650" as="sourcePoint" />
+            <mxPoint x="430" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dR5hQpOm_vv-klzQngD_-21" value="Computations&lt;br&gt;(eg. Weekly Average)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="343" y="740" width="165" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

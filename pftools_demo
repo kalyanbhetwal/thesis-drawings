@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T19:42:07.278Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="xdelRiJpT-KXWaI263NL" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T19:47:56.314Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="GnSxJ823TtaXsR6YFBwK" version="19.0.2" type="github">
   <diagram id="v88jJ32kpTw9rXQNRo56" name="Page-1">
     <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dR5hQpOm_vv-klzQngD_-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/NHDPlusHRStatus_Web_20220308.jpg;" parent="1" vertex="1">
-          <mxGeometry x="50" y="90" width="333.5" height="270" as="geometry" />
+          <mxGeometry x="40" y="90" width="343.5" height="278.1" as="geometry" />
         </mxCell>
         <mxCell id="dR5hQpOm_vv-klzQngD_-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -17,7 +17,7 @@
           <mxGeometry x="470" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dR5hQpOm_vv-klzQngD_-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d25vtythmttl3o.cloudfront.net/uploads/sites/221/2012/10/AboutDCEW.jpg;" parent="1" vertex="1">
-          <mxGeometry x="605.21" y="180" width="159.58" height="180" as="geometry" />
+          <mxGeometry x="605.21" y="160" width="159.58" height="180" as="geometry" />
         </mxCell>
         <mxCell id="dR5hQpOm_vv-klzQngD_-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=grid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="660" y="270" width="50" height="30" as="geometry" />
@@ -28,8 +28,8 @@
             <mxPoint x="410" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yQu7l13C6iPQ3Ef-924Q-1" value="Forcing, Domain Data for CONUS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="380" width="200" height="20" as="geometry" />
+        <mxCell id="yQu7l13C6iPQ3Ef-924Q-1" value="Input Forcing, Domain Data for CONUS&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="380" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yQu7l13C6iPQ3Ef-924Q-2" value="Forcing, Domain&amp;nbsp; Data for Particular HUCs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="380" width="130" height="30" as="geometry" />
@@ -37,7 +37,7 @@
         <mxCell id="yQu7l13C6iPQ3Ef-924Q-3" value="ParFlow Simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yQu7l13C6iPQ3Ef-924Q-4" value="Watebalance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yQu7l13C6iPQ3Ef-924Q-4" value="Waterbalance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yQu7l13C6iPQ3Ef-924Q-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yQu7l13C6iPQ3Ef-924Q-9" value="Output Files" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="490" width="80" height="20" as="geometry" />
+          <mxGeometry x="425" y="490" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

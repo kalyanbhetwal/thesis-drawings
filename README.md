@@ -1,1 +1,1 @@
-# theisis-drawings
+# thesis-drawings

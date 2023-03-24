@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T04:40:06.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.6" etag="o3Evm84wckO6ii5TdeXw" type="github"><diagram name="Page-1" id="nKYit26l1cFcle6zEEb4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-24T04:54:25.433Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6OuJ2p7gH5CptDR61YFQ" version="21.0.6" type="github">
+  <diagram name="Page-1" id="nKYit26l1cFcle6zEEb4">
+    <mxGraphModel dx="1434" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0Qum_NMOehO-nfVmBM4x-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Universal&amp;nbsp;&lt;br&gt;Normalizer&amp;nbsp;&lt;br&gt;Tester&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0Qum_NMOehO-nfVmBM4x-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="324.5" as="sourcePoint" />
+            <mxPoint x="230" y="324.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Qum_NMOehO-nfVmBM4x-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Input&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Qum_NMOehO-nfVmBM4x-5" value="&lt;h1&gt;Raw log&lt;/h1&gt;&lt;p&gt;&amp;lt;1&amp;gt; abc 1.2.3.4&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="265" width="100" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="0Qum_NMOehO-nfVmBM4x-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="324.5" as="sourcePoint" />
+            <mxPoint x="570" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Qum_NMOehO-nfVmBM4x-8" value="Output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Qum_NMOehO-nfVmBM4x-9" value="Best Normalizer for given log with&amp;nbsp;&lt;br&gt;Confidence scoe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
